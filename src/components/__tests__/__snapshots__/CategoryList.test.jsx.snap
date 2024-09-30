@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CategoryList component renders nothing when catalog is empty 1`] = `
+<div
+  class="list"
+  role="list"
+/>
+`;

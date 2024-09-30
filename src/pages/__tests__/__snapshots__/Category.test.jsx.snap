@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Category render 1`] = `
+[
+  <div
+    class="card"
+    role="article"
+  >
+    <div
+      class="card-image"
+    >
+      <img
+        alt="Beef and Mustard Pie"
+        src="https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg"
+      />
+    </div>
+    <div
+      class="card-content"
+    >
+      <span
+        class="card-title"
+      >
+        Beef and Mustard Pie
+      </span>
+    </div>
+    <div
+      class="card-action"
+    >
+      <a
+        class="btn"
+        href="/meal/52874"
+      >
+        Watch recipe
+      </a>
+    </div>
+  </div>,
+  <div
+    class="card"
+    role="article"
+  >
+    <div
+      class="card-image"
+    >
+      <img
+        alt="Beef and Oyster pie"
+        src="https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg"
+      />
+    </div>
+    <div
+      class="card-content"
+    >
+      <span
+        class="card-title"
+      >
+        Beef and Oyster pie
+      </span>
+    </div>
+    <div
+      class="card-action"
+    >
+      <a
+        class="btn"
+        href="/meal/52878"
+      >
+        Watch recipe
+      </a>
+    </div>
+  </div>,
+]
+`;
